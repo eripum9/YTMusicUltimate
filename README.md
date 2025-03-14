@@ -57,3 +57,4 @@ If the github action works and you cannot find where you can download the result
 
 
 Made with ❤ by Ginsu and Dayanch96
+Fixed by eripum9
