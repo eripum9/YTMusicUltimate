@@ -19,7 +19,7 @@ Add __[https://ginsu.dev/repo](https://ginsu.dev/repo)__ to your favorite instal
 (arm.deb version for Rootful and arm64.deb version for Rootless devices)
 
 * **Sideloading:**
-  We no longer provide a sideloading IPA but you can build one yourself, keep reading:
+  They no longer provide a sideloading IPA but i do
 
 ## How to build a YTMusicUltimate IPA by yourself using Github actions
 
